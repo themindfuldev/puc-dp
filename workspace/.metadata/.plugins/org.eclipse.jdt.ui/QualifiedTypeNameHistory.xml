@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.edu.pucminas.designpatterns.FormattedMapPrinterStrategy"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="javax.xml.datatype.XMLGregorianCalendar"/>
+<fullyQualifiedTypeName name="javax.xml.datatype.DatatypeFactory"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+</qualifiedTypeNameHistroy>

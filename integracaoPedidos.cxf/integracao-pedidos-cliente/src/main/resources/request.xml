@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"
+              xmlns:tns="http://tempuri.org/">
+  <env:Body>
+    <tns:RegistrarVenda>
+      <tns:idProduto>2222</tns:idProduto>
+	  <tns:quantidade>2</tns:quantidade>
+    </tns:RegistrarVenda>
+  </env:Body>
+</env:Envelope>

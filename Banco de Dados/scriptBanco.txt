@@ -1,0 +1,35 @@
+
+CREATE TABLE [Produto] (
+[IdProduto] INTEGER  NOT NULL PRIMARY KEY AUTOINCREMENT,
+[Nome] VARCHAR(256)  NULL,
+[QuantidadeEstoque] INTEGER  NOT NULL,
+[DiasEntrega] INTEGER  NOT NULL,
+[ValorUnitario] FLOAT  NOT NULL
+);
+    CREATE TABLE [Pedido] (
+[IdPedido] INTEGER  PRIMARY KEY AUTOINCREMENT NOT NULL,
+[QuantidadeProduto] INTEGER  NOT NULL,
+[DataPedido] DATE  NOT NULL,
+[DataEntregaEstimada] DATE  NOT NULL,
+[ValorPedido] FLOAT  NOT NULL,
+[IdProduto] INTEGER  UNIQUE NOT NULL REFERENCES Produto(IdProduto)
+);
+
+
+insert into Produto (idProduto,Nome,QuantidadeEstoque,DiasEntrega,ValorUnitario)
+values (1111,'Produto 1',9,4,5.50);
+
+insert into Produto (idProduto,Nome,QuantidadeEstoque,DiasEntrega,ValorUnitario)
+values (2222,'Produto 2',40,10,7.50);
+
+insert into Produto (idProduto,Nome,QuantidadeEstoque,DiasEntrega,ValorUnitario)
+values (3333,'Produto 3',2,6,99.90);
+
+insert into Produto (idProduto,Nome,QuantidadeEstoque,DiasEntrega,ValorUnitario)
+values (4444,'Produto 4',6,8,100);
+
+insert into Produto (idProduto,Nome,QuantidadeEstoque,DiasEntrega,ValorUnitario)
+values (5555,'Produto 5',100,9,10.50);
+
+insert into Produto (idProduto,Nome,QuantidadeEstoque,DiasEntrega,ValorUnitario)
+values (6666,'Produto 6',1,10,5.50);

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="integracaoPedidos.cxf">
+        <wb-resource deploy-path="/" source-path="/db-servicemix"/>
+        <wb-resource deploy-path="/" source-path="/integracao-pedidos-cxfse-su-generated"/>
+        <wb-resource deploy-path="/" source-path="/integracao-pedidos-cxfse-su.java"/>
+        <wb-resource deploy-path="/" source-path="/integracao-pedidos-cxfbc-su.resources"/>
+        <wb-resource deploy-path="/" source-path="/integracao-pedidos-cxfse-su.resources"/>
+        <property name="java-output-path" value="/integracaoPedidos.cxf/build/classes"/>
+    </wb-module>
+</project-modules>

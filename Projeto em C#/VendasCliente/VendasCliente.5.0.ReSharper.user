@@ -1,0 +1,180 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="532E91BB-A849-46A7-9606-E57C56F03803/d:Entidades/f:Produto.cs" caret="94" fromTop="3" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:Program.cs" caret="322" fromTop="13" />
+      <File id="532E91BB-A849-46A7-9606-E57C56F03803/d:Entidades/f:Retorno.cs" caret="272" fromTop="12" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.Designer.cs" caret="4595" fromTop="74" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1031" fromTop="24" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="2605" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1611" fromTop="5" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1611" fromTop="25" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="704" fromTop="16" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="156" fromTop="4" />
+      <File id="532E91BB-A849-46A7-9606-E57C56F03803/d:Entidades/f:Retorno.cs" caret="260" fromTop="9" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="2314" fromTop="25" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1611" fromTop="8" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1611" fromTop="1" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1611" fromTop="31" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="814" fromTop="25" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="1587" fromTop="5" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="2158" fromTop="19" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="2294" fromTop="10" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="814" fromTop="17" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="859" fromTop="16" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="863" fromTop="16" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="4" fromTop="0" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="734" fromTop="17" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="1018" fromTop="11" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="1483" fromTop="21" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="1434" fromTop="19" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="2879" fromTop="19" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="1918" fromTop="11" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="102" fromTop="3" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1181" fromTop="9" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1183" fromTop="9" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1584" fromTop="17" />
+      <File id="ABC65232-6242-4E07-BC6D-A9589DD50DEC/f:Servicos.cs" caret="1368" fromTop="13" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="2470" fromTop="20" />
+      <File id="F4A2C823-9CBD-4A2C-970A-83D430A2CEEC/f:RealizarPedido.cs" caret="2815" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="9" />
+      <Item value="new" priority="12" />
+      <Item value="string" priority="2" />
+      <Item value="int" priority="5" />
+      <Item value="List" priority="0" />
+      <Item value="Produto`0" priority="2" />
+      <Item value="var" priority="7" />
+      <Item value="IListSource`0" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="produto1" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="listaProduto" priority="0" />
+      <Item value="comboBox_Produto" priority="11" />
+      <Item value="listaProdutos" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="TextBoxQuantidade" priority="1" />
+      <Item value="IServicos" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="_servicos" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="Implementacao" priority="2" />
+      <Item value="IServicos`0" priority="1" />
+      <Item value="Servicos" priority="0" />
+      <Item value="Interface" priority="0" />
+      <Item value="retorno" priority="12" />
+      <Item value="if" priority="2" />
+      <Item value="else" priority="0" />
+      <Item value="Servicos`0" priority="1" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="messageBox" priority="0" />
+      <Item value="MessageBox" priority="0" />
+      <Item value="Message`0" priority="0" />
+      <Item value="ListBindingConverter`0" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="components" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="ProcessarPedidoService" priority="0" />
+      <Item value="ProcessarPedido`0" priority="0" />
+      <Item value="servico" priority="0" />
+      <Item value="dynamic" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="Retorno" priority="1" />
+      <Item value="DataEntrega" priority="0" />
+      <Item value="FgProcessado" priority="0" />
+      <Item value="IdPedido" priority="0" />
+      <Item value="MensagemRetorno" priority="0" />
+      <Item value="ValorTotal" priority="0" />
+      <Item value="Microsoft" priority="1" />
+      <Item value="CSharp" priority="1" />
+      <Item value="CSharpCodeProvider`0" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VendasCliente.Produto">
+      <Item value="Nome" priority="0" />
+      <Item value="IdProduto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="DisplayMember" priority="0" />
+      <Item value="ValueMember" priority="2" />
+      <Item value="DataSource" priority="1" />
+      <Item value="SelectedValue" priority="2" />
+      <Item value="Items" priority="2" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MaskedTextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Servicos.Interface.IServicos">
+      <Item value="ObterProdutos`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Servicos.Implementacao.Servicos">
+      <Item value="ObterProdutos`0" priority="0" />
+      <Item value="ProcessarPedido`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entidade.Entidades.Retorno">
+      <Item value="FgProcessado" priority="0" />
+      <Item value="MensagemRetorno" priority="0" />
+      <Item value="DataEntrega" priority="0" />
+      <Item value="IdPedido" priority="0" />
+      <Item value="ValorTotal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Servicos.Servicos">
+      <Item value="ObterProdutos`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Servicos.ProcessarPedidoService.ProcessarPedido">
+      <Item value="RegistrarVenda`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Servicos.ProcessarPedidoService.Retorno">
+      <Item value="DataEntrega" priority="0" />
+      <Item value="FgProcessado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortDateString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
